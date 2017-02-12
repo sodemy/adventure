@@ -1,3 +1,6 @@
+// from this web site. very thx.
+// http://engineer.recruit-lifestyle.co.jp/techblog/2015-06-22-node1/
+
 var http = require('http')
 
 http.createServer(function(req, res) {
