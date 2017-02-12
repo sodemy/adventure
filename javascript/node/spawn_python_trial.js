@@ -1,4 +1,4 @@
-// from this web site. very thx.
+// from this web site. thx a lot.
 // http://ayapi.github.io/posts/nodejsspawnpythonencoding/
 // http://b.hatena.ne.jp/entry/285135219/comment/overmorrow
 
