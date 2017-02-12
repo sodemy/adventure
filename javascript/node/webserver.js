@@ -1,4 +1,4 @@
-// from this web site. very thx.
+// from this web site. thx a lot.
 // http://engineer.recruit-lifestyle.co.jp/techblog/2015-06-22-node1/
 
 var http = require('http')
