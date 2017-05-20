@@ -1,0 +1,21 @@
+{
+  "name": "electron-readus",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "sodemy <waytohappinaissance@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sodemy/adventure",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "marked": "^0.3.6",
+    "angular": "^1.6.4"
+  }
+}
