@@ -6,6 +6,12 @@
         <title> My first Electron app</title>
     </head>
     <body>
-        <h1>Hello Electron!</h1>
+        <h1>CommentBox</h1>
+        <form id="comment-form">
+            <input type="text" id="comment-input" placeholder="comment" />
+            <input type="submit" value="submit" />
+        </form>
+        <ul id="comments"></ul>
+        <script src="renderer.js"></script>
     </body>
 </html>
